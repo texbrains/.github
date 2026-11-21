@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="./assets/sourcesans.svg" width="440" alt="TeXBrains">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg">
+    <img src="./assets/wordmark-light.svg" width="440" alt="TeXBrains">
+  </picture>
 </p>
+
 
 <p align="center"><em>Equations, done right.</em></p>
 
