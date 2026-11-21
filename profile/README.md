@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sourcesans.svg" width="96" height="96" alt="TexBrains">
+  <img src="./assets/sourcesans.svg" width="440" alt="TeXBrains">
 </p>
 
 <p align="center"><em>Equations, done right.</em></p>
